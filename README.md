@@ -1,2 +1,2 @@
-# messanger
+# messenger
 A simple messanger
